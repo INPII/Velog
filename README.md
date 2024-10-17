@@ -1,0 +1,1 @@
+Velog와 GIT 연동
